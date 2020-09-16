@@ -28,7 +28,7 @@
     - Sample rate: 1Msps
     - Waveforms: sinusoid, phase modulation, frequency modulation, AWG
     - AWG Memory depth: ">2M samples (2 seconds)"
-    - Dynamic range: ">60dB (10µA to 10mA) Humans"
+    - Dynamic range: ">60dB (10µA to 10mA)"
     - Precision / resolution: 16 bit, 1µs, synchronous update
     - Harmonic and intermodulation Distortion: <0.05%
     - Ground reference: yes
@@ -44,9 +44,7 @@
     - Firmware update: USB C
     - Optical Serial Port: connecting to EEG instrument
     - Environment: 3T MRI, +5 to +40°C
-    - Regulatory: FDA /
-    - Size: tbd
-    - Weight: tbd
+    - Regulatory: FDA / EC (pending)
 
 - title: Treatment-Planning Tools
   body: |
