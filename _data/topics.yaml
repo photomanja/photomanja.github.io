@@ -78,7 +78,7 @@
   button: List
   teaser: The latest publications on TI stimulation can be found here.
   body: |
-    Alekseichuk I, Mantell K, Shirinpour S, Opitz A. *Comparative modeling of transcranial magnetic and electric stimulation in mouse, monkey, and human.* Neuroimage. 2019;194:136‐148. doi:10.1016/j.neuroimage.2019.03.044
+    Alekseichuk I, Mantell K, Shirinpour S, Opitz A. *Comparative modeling of transcranial magnetic and electric stimulation in mouse, monkey, and human.* Neuroimage. 2019;194:136‐148. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811919302320?via%3Dihub/" target="_blank" >doi:10.1016/j.neuroimage.2019.03.044</a>
 
     Huang Y, Parra LC. *Can transcranial electric stimulation with multiple electrodes reach deep targets?* Brain Stimul. 2019;12(1):30‐40. doi:10.1016/j.brs.2018.09.010
 
