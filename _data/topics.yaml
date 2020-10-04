@@ -31,14 +31,14 @@
     - Dynamic range: ">60dB (10µA to 10mA)"
     - Precision / resolution: 16 bit, 1µs, synchronous update
     - Harmonic and intermodulation Distortion: <0.05%
-    - Ground reference: <span uk-icon="icon: check"></span>
-    - Ground current monitoring: <span uk-icon="icon: check"></span>
+    - Ground reference: yes
+    - Ground current monitoring: yes
     - Monitoring - currents / voltages: yes synchronous sampling / logging of treatment
-    - Electrode impedance detection: <span uk-icon="icon: check"></span>
-    - Emergency Stop Button: <span uk-icon="icon: check"></span>
+    - Electrode impedance detection: yes
+    - Emergency Stop Button: yes
     - current limit: frequency dependent current limit (latched)
     - Trigger Input: yes (digital) Optically isolated
-    - EEG level output of excitation: <span uk-icon="icon: check"></span>
+    - EEG level output of excitation: yes
     - Filtering - RF: yes LPF >30dB rejection plus traps
     - Control unit: optical connection to control PC
     - Firmware update: USB C
