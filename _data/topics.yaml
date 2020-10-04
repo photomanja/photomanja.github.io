@@ -31,7 +31,7 @@
     - Dynamic range: ">60dB (10µA to 10mA)"
     - Precision / resolution: 16 bit, 1µs, synchronous update
     - Harmonic and intermodulation Distortion: <0.05%
-    - Ground reference: yes
+    - Ground reference: '<span uk-icon="icon: check"></span>'
     - Ground current monitoring: yes
     - Monitoring - currents / voltages: yes synchronous sampling / logging of treatment
     - Electrode impedance detection: yes
