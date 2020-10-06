@@ -32,13 +32,13 @@
     - Precision / resolution: 16 bit, 1µs, synchronous update
     - Harmonic and intermodulation Distortion: <0.05%
     - Ground reference: '<span uk-icon="icon: check"></span>'
-    - Ground current monitoring: yes
+    - Ground current monitoring: '<span uk-icon="icon: check"></span>'
     - Monitoring - currents / voltages: yes synchronous sampling / logging of treatment
-    - Electrode impedance detection: yes
-    - Emergency Stop Button: yes
+    - Electrode impedance detection: '<span uk-icon="icon: check"></span>'
+    - Emergency Stop Button: '<span uk-icon="icon: check"></span>'
     - current limit: frequency dependent current limit (latched)
     - Trigger Input: yes (digital) Optically isolated
-    - EEG level output of excitation: yes
+    - EEG level output of excitation: '<span uk-icon="icon: check"></span>'
     - Filtering - RF: yes LPF >30dB rejection plus traps
     - Control unit: optical connection to control PC
     - Firmware update: USB C
