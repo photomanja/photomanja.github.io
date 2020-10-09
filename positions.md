@@ -99,4 +99,4 @@ Switzerland, Phone: +41 44 245 96 96, <jobs@z43.swiss>
 
 Informal enquiries are welcome and should be directed to Dr. Sabine Regel <regel@temporalinterference.com>.
 
-[Download as Pdf](assets/pdfs/JobAd_Sen_Qual_Reg_Affairs_Specialist.pdf)
+[Download as Pdf](assets/pdfs/JobAd_Sen_Qual_Reg_Affairs_Specialist_updated.pdf)
