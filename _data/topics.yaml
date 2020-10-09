@@ -24,7 +24,7 @@
     - Battery - run time: ">6 hrs active time"
     - Charging: USB C
     - Number of channels per unit: 8 fully differential (extendable)
-    - Trigger/sync output: external instrument and slave synchronization
+    - Trigger / sync output: external instrument and slave synchronization
     - Sample rate: 1 Msps
     - Waveforms: sinusoid, phase modulation, frequency modulation, AWG
     - AWG memory depth: ">2 M samples (2 s)"
@@ -36,7 +36,7 @@
     - Monitoring - currents / voltages: yes synchronous sampling / logging of treatment
     - Electrode impedance detection: '<span uk-icon="icon: check"></span>'
     - Emergency stop button: '<span uk-icon="icon: check"></span>'
-    - current limit: frequency dependent current limit (latched)
+    - Current limit: frequency dependent current limit (latched)
     - Trigger input: yes (digital) optically isolated
     - EEG level output of excitation: '<span uk-icon="icon: check"></span>'
     - Filtering - RF: yes LPF >30 dB rejection plus traps
