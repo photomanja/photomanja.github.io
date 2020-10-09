@@ -18,31 +18,31 @@
    <h4 {Specifications}</h4>
   list:
     - Specifications:
-    - Frequency range: DC - 100kHz
-    - Output voltage: ~30V (60V differential)
-    - Output current: 10mA max differential (load capacitance compensation)
+    - Frequency range: DC - 100 kHz
+    - Output voltage: ~30 V (60 V differential)
+    - Output current: 10 mA max differential (load capacitance compensation)
     - Battery - run time: ">6 hrs active time"
     - Charging: USB C
     - Number of channels per unit: 8 fully differential (extendable)
-    - Trigger/Sync Output: external instrument and slave synchronization
-    - Sample rate: 1Msps
+    - Trigger/sync output: external instrument and slave synchronization
+    - Sample rate: 1 Msps
     - Waveforms: sinusoid, phase modulation, frequency modulation, AWG
-    - AWG Memory depth: ">2M samples (2 seconds)"
-    - Dynamic range: ">60dB (10µA to 10mA)"
-    - Precision / resolution: 16 bit, 1µs, synchronous update
-    - Harmonic and intermodulation Distortion: <0.05%
+    - AWG memory depth: ">2 M samples (2 s)"
+    - Dynamic range: ">60 dB (10 µA to 10 mA)"
+    - Precision / resolution: 16 bit, 1 µs, synchronous update
+    - Harmonic and intermodulation distortion: <0.05%
     - Ground reference: '<span uk-icon="icon: check"></span>'
     - Ground current monitoring: '<span uk-icon="icon: check"></span>'
     - Monitoring - currents / voltages: yes synchronous sampling / logging of treatment
     - Electrode impedance detection: '<span uk-icon="icon: check"></span>'
-    - Emergency Stop Button: '<span uk-icon="icon: check"></span>'
+    - Emergency stop button: '<span uk-icon="icon: check"></span>'
     - current limit: frequency dependent current limit (latched)
-    - Trigger Input: yes (digital) Optically isolated
+    - Trigger input: yes (digital) optically isolated
     - EEG level output of excitation: '<span uk-icon="icon: check"></span>'
-    - Filtering - RF: yes LPF >30dB rejection plus traps
+    - Filtering - RF: yes LPF >30 dB rejection plus traps
     - Control unit: optical connection to control PC
     - Firmware update: USB C
-    - Optical Serial Port: connecting to EEG instrument
+    - Optical serial port: connecting to EEG instrument
     - Environment: 3T MRI, +5 to +40°C
     - Regulatory: FDA / EC (pending)
 
